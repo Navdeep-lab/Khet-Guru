@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447740895265",
+    "project_id": "khetguru-13008",
+    "storage_bucket": "khetguru-13008.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447740895265:android:c32c0838559c9af7818360",
+        "android_client_info": {
+          "package_name": "com.example.khetguru"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJUBqDElLoslvrZSLUuIETQtOEI2ClAsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
